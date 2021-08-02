@@ -267,7 +267,7 @@ header {
     padding-top: calc( 112px + 10rem);
     padding-bottom: 112px;
     text-align: center;
-    height: 100vh;
+    height: 100%;
 }
 
 header h1 {
